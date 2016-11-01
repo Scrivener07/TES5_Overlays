@@ -12,6 +12,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
+*.exe
 *.cab
 *.msi
 *.msm
