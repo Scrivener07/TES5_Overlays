@@ -1,0 +1,14 @@
+# ignore skyui
+/CLIK/
+/Common/
+/CraftingMenu/
+/Enderal/
+/FavoritesMenu/
+/HUDWidgets/
+/ItemMenus/
+/MapMenu/
+/MessageBox/
+/ModConfigPanel/
+/PauseMenu/
+/Resources/
+/version.as
